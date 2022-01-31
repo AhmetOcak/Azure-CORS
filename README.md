@@ -1,0 +1,2 @@
+# Azure-CORS
+CORS
